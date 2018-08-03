@@ -22,3 +22,6 @@ from googletrans import Translator
 
 - LINE UPDATE
 juni 2018
+## [SUBCRABE NOW](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
+KLIK
+## [CREATOR](http://line.me/ti/p/~adiputra.95)

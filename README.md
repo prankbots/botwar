@@ -13,7 +13,7 @@ pip install googletrans
 python3 translate.py
 ```
 - LINE UPDATE
-juni 2018
+agustus 2018
 # [TUTORIAL](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
 ![Prankbots](prankbots.png)
 V2.1 last update::

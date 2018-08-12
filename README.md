@@ -8,7 +8,10 @@ pip install requests
 pip install thrift==0.11.0
 pip install googletrans
 ```
-
+- runner
+```
+python3 translate.py
+```
 - LINE UPDATE
 juni 2018
 ## [SUBCRABE NOW](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)

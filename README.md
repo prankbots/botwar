@@ -14,9 +14,7 @@ python3 translate.py
 ```
 - LINE UPDATE
 juni 2018
-## [SUBCRABE NOW](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
-## TUTORIAL
-KLIK
+# [TUTORIAL](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
 ![Prankbots](prankbots.png)
 V2.1 last update::
 - 12/agustus/2018

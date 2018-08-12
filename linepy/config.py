@@ -31,7 +31,7 @@ class Config(object):
     APP_TYPE    = ApplicationType._VALUES_TO_NAMES[368]
     APP_VER     = '2.1.5'
     CARRIER     = '51089, 1-0'
-    SYSTEM_NAME = 'PrankBots\n http://line.me/ti/p/~adiputra.95'
+    SYSTEM_NAME = 'PrankBots\nhttp://line.me/ti/p/~adiputra.95'
     SYSTEM_VER  = '8.22.17'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")

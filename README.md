@@ -16,7 +16,7 @@ python3 spongebob.py
 - LINE UPDATE
 agustus 2018
 # [TUTORIAL](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
-![Prankbots](unnamed (8).png)
+![Prankbots](spongebob.png)
 V2.1 last update::
 - 12/agustus/2018
 # official bots

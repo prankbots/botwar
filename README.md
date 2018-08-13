@@ -1,4 +1,4 @@
-# AUTO TRANSLATE BOTS
+# SPONGEBOB BOTS
 - install module
 ```
 pkg install python
@@ -6,11 +6,12 @@ pip install rsa
 pip install six
 pip install requests
 pip install thrift==0.11.0
-pip install googletrans
+pip install bs4
 ```
 - runner
 ```
-python3 translate.py
+cd spongebob
+python3 spongebob.py
 ```
 - LINE UPDATE
 agustus 2018

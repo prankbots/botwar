@@ -13,28 +13,28 @@ botStart = time.time()
 mulai = time.time()
 tokenOpen = codecs.open("prankbot.json","r","utf-8")
 token = json.load(tokenOpen)
-sb = sb(token["sb"])
+sb = LINE(token["sb"])
 sb.log("Auth Token : " + str(sb.authToken))
 channelToken = sb.getChannelResult()
-pb1 = sb(token["pb1"])
+pb1 = LINE(token["pb1"])
 pb1.log("Auth Token : " + str(pb1.authToken))
-pb2 = sb(token["pb2"])
+pb2 = LINE(token["pb2"])
 pb2.log("Auth Token : " + str(pb2.authToken))
-pb3 = sb(token["pb3"])
+pb3 = LINE(token["pb3"])
 pb3.log("Auth Token : " + str(pb3.authToken))
-pb4 = sb(token["pb4"])
+pb4 = LINE(token["pb4"])
 pb4.log("Auth Token : " + str(pb4.authToken))
-pb5 = sb(token["pb5"])
+pb5 = LINE(token["pb5"])
 pb5.log("Auth Token : " + str(pb5.authToken))
-pb6 = sb(token["pb6"])
+pb6 = LINE(token["pb6"])
 pb6.log("Auth Token : " + str(pb6.authToken))
-pb7 = sb(token["pb7"])
+pb7 = LINE(token["pb7"])
 pb7.log("Auth Token : " + str(pb7.authToken))
-pb8 = sb(token["pb8"])
+pb8 = LINE(token["pb8"])
 pb8.log("Auth Token : " + str(pb8.authToken))
-pb9 = sb(token["pb9"])
+pb9 = LINE(token["pb9"])
 pb9.log("Auth Token : " + str(pb9.authToken))
-pb10 = sb(token["pb10"])
+pb10 = LINE(token["pb10"])
 pb10.log("Auth Token : " + str(pb10.authToken))
 oepoll = OEPoll(sb)
 sbProfile = sb.getProfile()
@@ -70,7 +70,7 @@ settings={
     "setKey": False,
     "prankJoin":False,
     'prank_name': {},
-    "blacklist": {}
+    "blacklist": {},
     "prankJoinLink":False
 }
 def restartBot():

@@ -754,6 +754,21 @@ def bot(op):
                             sb.sendMessage(to, "Berhasil hapus semua chat")
                         elif prankbot == "mymid":
                             sb.sendMessage(to, "{}".format(sender))
+                        elif prankbot == "speed":
+                            start = time.time()
+                            sb.sendMessage(to, "Ngacirr..")
+                            elapsed_time = time.time() - start
+                            sb.sendMessage(to,format(str(elapsed_time)))
+                            pb1.sendMessage(to,format(str(elapsed_time)))
+                            pb2.sendMessage(to,format(str(elapsed_time)))
+                            pb3.sendMessage(to,format(str(elapsed_time)))
+                            pb4.sendMessage(to,format(str(elapsed_time)))
+                            pb5.sendMessage(to,format(str(elapsed_time)))
+                            pb6.sendMessage(to,format(str(elapsed_time)))
+                            pb7.sendMessage(to,format(str(elapsed_time)))
+                            pb8.sendMessage(to,format(str(elapsed_time)))
+                            pb9.sendMessage(to,format(str(elapsed_time)))
+                            pb10.sendMessage(to,format(str(elapsed_time)))
                         elif prankbot == "botmid":
                             h = pb1.getContact(pb1MID)
                             pb1.sendMessage(to,h.mid)

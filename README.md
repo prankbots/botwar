@@ -1,24 +1,21 @@
-# SPONGEBOB BOTS
+# SELFBOT + 10 PROTECT
+## VPS SERVER
 - install module
 ```
-pkg install python
-pip install rsa
-pip install six
-pip install requests
-pip install thrift==0.11.0
-pip install bs4
+apt-get install python3
+apt-get install python3-tz
+pip3 install rsa requests bs4 gtts humanfriendly googletrans thrift==0.11.0
 ```
 - runner
 ```
-cd spongebob
-python3 spongebob.py
+cd self10pro
+python3 self10pro.py
 ```
 - LINE UPDATE
-agustus 2018
+september 2018
 # [TUTORIAL](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
-![Prankbots](spongebob.png) ![prank](patrick.png)
-V2.1 last update::
-- 12/agustus/2018
+V3.1 last update::
+- september/2018
 # official bots
 <a href="https://line.me/R/ti/p/%40gnh2780p"><img height="36" border="0" alt="PrankBots" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 # Creator bots

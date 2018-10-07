@@ -26,3 +26,6 @@ V3.1 last update::
 <a href="https://line.me/R/ti/p/%40gnh2780p"><img height="36" border="0" alt="PrankBots" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 # Creator bots
 <a href="https://line.me/R/ti/p/~adiputra.95"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
+
+"<div class =" line - it - button "data - lang =" ja "data - type =" share - b "data - url =" http://youtube.com "style =" display: none; / div>
+ <Script src = "https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async = "async" menunda = "menunda"> </ script>

@@ -1,4 +1,4 @@
-# SELFBOT + 10 PROTECT
+# SELFBOT WAR
 ## VPS SERVER
 - install module
 ```

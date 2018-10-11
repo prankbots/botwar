@@ -1,4 +1,6 @@
 # SELFBOT WAR
+[![PrankBots](https://img.fireden.net/v/image/1461/72/1461725093324.gif "Prankbots")](https://bit.ly/2xbVxlh)
+
 ## VPS SERVER
 - install module
 ```
@@ -17,8 +19,6 @@ sudo pip3 install rsa requests bs4 gtts humanfriendly googletrans thrift==0.11.0
 cd self10pro
 python3 self10pro.py
 ```
-[![PrankBots](https://img.fireden.net/v/image/1461/72/1461725093324.gif "Prankbots")](https://bit.ly/2xbVxlh)
-
 *LINE Messaging's private API*
 *Modifed by: PrankBot*
 

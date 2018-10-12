@@ -16,8 +16,8 @@ sudo pip3 install rsa requests bs4 gtts humanfriendly googletrans thrift==0.11.0
 ```
 - runner
 ```
-cd self10pro
-python3 self10pro.py
+cd botwar
+python3 botwar.py
 ```
 *LINE Messaging's private API*
 *Modifed by: PrankBot*
